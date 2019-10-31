@@ -25,7 +25,7 @@ and content.
 
 Next, set up the corresponding `Article` model. Make sure the class inherits from `ActiveRecord::Base`.
 
-### Create
+###a Create
 
 Now that we have the database and model set up, it's time to set up the ability
 to create an article.
